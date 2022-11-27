@@ -27,6 +27,7 @@ header img {
     position: absolute;
     width: 300px;
     background: rgba(230,230,230,255);
+    text-align: center;
     box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     border-radius: 10px;
     margin-top: 150px;
@@ -42,12 +43,14 @@ header img {
     margin-left: 5px;
     font-size: 34px;
     font-weight: bold;
+    margin-top: 10px;
     margin-bottom: 0;
 }
 
 .profile-card p {
     margin-left: 5px;
-    margin-top: 0;;
+    margin-top: 0;
+    margin-bottom: 0;
 }
 
 .social-media img {
@@ -71,8 +74,6 @@ header img {
     height: 324px;
     width: 850px;
     border-bottom-right-radius: 20px;
-    /* background-image: url("../img/starfall.gif"); */
-    /* box-shadow:0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
     justify-content:center;
     align-items: center;
 }
